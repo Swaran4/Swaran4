@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swaran</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **HealthBeat-AI**
+- 🔭 I’m currently working on **HealthyBeat-AI**
 
 - 🌱 I’m currently learning **Machine Learning,SQL**
 
-- 👯 I’m looking to collaborate on [Core-Banking-System](https://github.com/Swaran4/Core-Banking-System)
+- 👯 I’m looking to collaborate on [Core-Banking-System](https://github.com/Swaran4/Core_Banking_System)
 
 - 🤝 I’m looking for help with **HealthyBeat-AI**
 
