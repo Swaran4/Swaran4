@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Swaran</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Healthy Beat AI**
+- 🔭 I’m currently working on **HealthBeat-AI**
 
-- 🌱 I’m currently learning **Javascript, react**
+- 🌱 I’m currently learning **Machine Learning,SQL**
 
-- 👯 I’m looking to collaborate on [BrainStyle Quiz](https://github.com/Swaran4/brain-style-full-stack)
+- 👯 I’m looking to collaborate on [Core-Banking-System](https://github.com/Swaran4/Core-Banking-System)
 
-- 🤝 I’m looking for help with **Smarttrip Companion**
+- 🤝 I’m looking for help with **HealthyBeat-AI**
 
-- 💬 Ask me about **Computer Science Fundamentals**
+- 💬 Ask me about **Computer Science Fundamentals,Preparation-for-service-based-comapnies**
 
 - 📫 How to reach me **swaranchhabra4@gmail.com**
 
