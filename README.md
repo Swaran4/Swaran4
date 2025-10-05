@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **HealthyBeat-AI**
 
-- 💬 Ask me about **Computer Science Fundamentals,Preparation-for-service-based-comapnies**
+- 💬 Ask me about **Computer Science Fundamentals,Preparation-for-service-based-companies**
 
 - 📫 How to reach me **swaranchhabra4@gmail.com**
 
